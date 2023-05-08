@@ -11,7 +11,7 @@
     * Each email should then be rendered in its own box (e.g. as a <div> with a border) that displays who the email is from, what the subject line is, and the timestamp of the email.
     * If the email is unread, it should appear with a white background. If the email has been read, it should appear with a gray background.
 3. <strong>View Email:</strong> When a user clicks on an email, the user should be taken to a view where they see the content of that email.
-    * Your application should show the email’s sender, recipients, subject, timestamp, and body.
+    * The application should show the email’s sender, recipients, subject, timestamp, and body.
     * Once the email has been clicked on, the email must be marked as read.
 4. <strong>Archive and Unarchive:</strong> Allow users to archive and unarchive emails that they have received.
     * When viewing an Inbox email, the user should be presented with a button that lets them archive the email. When viewing an Archive email, the user should be presented with a button that lets them unarchive the email. This requirement does not apply to emails in the Sent mailbox.
